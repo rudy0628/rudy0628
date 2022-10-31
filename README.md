@@ -2,11 +2,11 @@
 
 I am Rudy Yeh, a web developer.
 
-Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog on [https://rudyyeh.dev/](https://rudyyeh.dev/)
+Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog on [Rudy Yeh - Medium](https://medium.com/@s3352250zz) !
 
 我是葉世平，一名網頁開發者。
 
-在 [https://rudyyeh.dev/](https://rudyyeh.dev/) 訪問我的網站以及我的個人部落格 [https://medium.com/s3352250zz](RudyYeh-Medium)
+在 [https://rudyyeh.dev/](https://rudyyeh.dev/) 訪問我的網站以及我的個人部落格 [Rudy Yeh - Medium](https://medium.com/@s3352250zz) !
 
 <a href="https://rudyyeh.dev/">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,mongo,ts,netlify,vscode,nodejs,idea)" />
