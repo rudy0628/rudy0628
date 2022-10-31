@@ -16,6 +16,10 @@ Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my person
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rudy0628&show_icons=true&count_private=true)
 
+## My Languages used
+
+![](https://raw.githubusercontent.com/rudy0628/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 <!--
 **rudy0628/rudy0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
