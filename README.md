@@ -9,7 +9,7 @@ Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my person
 在 [https://rudyyeh.dev/](https://rudyyeh.dev/) 訪問我的網站以及我的個人部落格 [https://medium.com/@s3352250zz](Rudy Yeh - Medium)！
 
 <a href="https://www.linyuanlin.com">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,mongo,ts,netlify,vscode)" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,next,tailwind,mongo,ts,netlify,vscode,nodejs,idea)" />
 </a>
 
 <!--
