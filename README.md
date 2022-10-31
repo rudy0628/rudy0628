@@ -14,7 +14,7 @@
 
 ## My Languages used
 
-![](https://raw.githubusercontent.com/rudy0628/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0628&layout=compact&theme=gruvbox)](https://github.com/rudy0628/github-readme-stats)
 
 ## My Profile Trophy
 
