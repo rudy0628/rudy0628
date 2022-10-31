@@ -14,7 +14,11 @@
 
 ## My Languages used
 
-![](https://profile-summary-for-github.com/user/rudy0628)
+![](https://raw.githubusercontent.com/rudy0628/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+## My Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudy0628&theme=onedark)](https://github.com/rudy0628/github-profile-trophy)
 
 <!--
 **rudy0628/rudy0628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
