@@ -2,7 +2,7 @@
 
 I am Rudy Yeh, a web developer.
 
-Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog on [https://medium.com/s3352250zz](Rudy Yeh - Medium) !
+Visit my portfolio on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog on [https://rudyyeh.dev/](https://rudyyeh.dev/) !
 
 我是葉世平，一名網頁開發者。
 
