@@ -49,16 +49,16 @@ Visit my portfolio page on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my p
 
 ## About my GitHub 📊
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=rudy0628&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0628&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=rudy0628&show_icons=true&hide_border=false&theme=ocean_dark&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudy0628&show_icons=true&hide_border=false&theme=ocean_dark&count_private=true&include_all_commits=true&layout=compact)
 
 ## My Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rudy0628&theme=onedark)](https://github.com/rudy0628/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rudy0628&theme=juicyfresh)](https://github.com/rudy0628/github-profile-trophy)
 
 ## GitHub Streaks 🔥
 
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=rudy0628&theme=jolly&date_format=j%20M%5B%20Y%5D)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=rudy0628&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D)
 
 ### Thanks for Visiting my GitHub Profile!
 ---
