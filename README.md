@@ -63,4 +63,3 @@ Visit my portfolio page on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my p
 ### Thanks for Visiting my GitHub Profile!
 ---
 ![Snake animation](https://github.com/rudy0628/rudy0628/blob/output/github-contribution-grid-snake.svg)
-
