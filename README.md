@@ -5,7 +5,7 @@
 
 在 [https://rudyyeh.dev/](https://rudyyeh.dev/) 訪問我的網站以及我的個人部落格 [blog.rudyyeh.dev](https://blog.rudyyeh.dev) !
 
-Visit my portfolio page on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog [Rudy Yeh - Medium](https://medium.com/@s3352250zz) !
+Visit my portfolio page on [https://rudyyeh.dev/](https://rudyyeh.dev/) and my personal blog [blog.rudyyeh.dev](https://blog.rudyyeh.dev) !
 
 ## Tech Stack 💻
 #### Languages
