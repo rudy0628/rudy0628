@@ -60,6 +60,6 @@ Visit my portfolio page on [www.rudyyeh.dev](https://www.rudyyeh.dev/) and my pe
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=rudy0628&theme=ads-juicy-fresh&date_format=j%20M%5B%20Y%5D)
 
-### Thanks for Visiting my GitHub Profile!
+### Thanks for Visiting my GitHub Profile! ![](https://komarev.com/ghpvc/?username=rudy0628&color=blueviolet)
 ---
 ![Snake animation](https://github.com/rudy0628/rudy0628/blob/output/github-contribution-grid-snake.svg)
