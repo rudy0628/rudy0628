@@ -66,4 +66,4 @@ Visit my portfolio page on [www.rudyyeh.dev](https://www.rudyyeh.dev/) and my pe
 
 ### Thanks for Visiting my GitHub Profile! ![](https://komarev.com/ghpvc/?username=rudy0628&color=blueviolet)
 ---
-![Snake animation](https://github.com/rudy0628/rudy0628/blob/output/github-contribution-grid-snake.svg)
+
